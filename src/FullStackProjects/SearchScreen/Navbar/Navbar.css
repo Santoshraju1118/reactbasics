@@ -1,0 +1,25 @@
+.navbar__login>button {
+    border-radius: 0.5rem;
+    padding: 10px;
+    border: none;
+    background-color: white;
+    color: red;
+}
+
+.navbar__login>button:hover {
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
+
+.navbar__logo {
+    font-family: Poppins;
+    font-size: 50px;
+    font-weight: 600;
+    color: red;
+    background-color: white;
+    border-radius: 75px;
+    padding: 0px 8px;
+    margin-left: 16px;
+    cursor: pointer;
+}

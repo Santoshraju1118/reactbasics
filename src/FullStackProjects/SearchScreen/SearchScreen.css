@@ -1,0 +1,16 @@
+.search__pagination>nav>ul {
+    place-content: center;
+    margin: 13%;
+}
+
+@media only screen and (min-width: 768px) {
+    .Sort__mobile {
+        display: none;
+        border: 1px solid black;
+    }
+}
+
+.Sort__mobile {
+    border: 1px solid black;
+    margin: 8px;
+}
